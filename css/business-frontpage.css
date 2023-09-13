@@ -1,0 +1,106 @@
+/*!
+ * Start Bootstrap - Business Frontpage (https://startbootstrap.com/templates/business-frontpage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+
+ *{
+  width: device-width;
+ }
+
+head{
+  overflow: hidden;
+}
+
+#home{
+  clip-path: inset(57px 0px 0px 0px);
+  margin-top: -50px;
+}
+
+div{
+font-size: large;
+}
+
+#project_executed{
+  padding-top: 70px;
+  margin-top: -70px;
+  display:inline;
+}
+
+#org{
+  padding-top: 70px;
+  margin-top: -70px;
+  display:inline;
+}
+
+#contact_us{
+  padding-top: 70px;
+  margin-top: -70px;
+  display:inline;
+}
+
+#gallery{
+  padding-top: 50px;
+  margin-top: -50px;
+  display:inline;
+}
+
+#unique_id_1 {
+  color: hsl(0, 0%, 0%);
+  position:fixed;
+  display: inline;
+  left: 700px;
+  top: 10px;
+}
+
+#unique_id_2 {
+  color: hsl(0, 0%, 0%);
+  position:fixed;
+  left: 775px;
+  top: 10px;
+}
+
+#unique_id_3 {
+  color: hsl(0, 0%, 0%);
+  position:fixed;
+  left: 945px;
+  top: 10px;
+}
+
+#unique_id_4 {
+  color: hsl(0, 0%, 0%);
+  position:fixed;
+  left: 1140px;
+  top: 10px;
+}
+
+#unique_id_5 {
+  color: hsl(0, 0%, 0%);
+  position:fixed;
+  left: 1250px;
+  top: 10px;
+}
+
+a:link {
+  color: black;
+  background-color: none;
+  text-decoration: black;
+}
+
+#header{
+    color: black;
+    background-color: none;
+    text-decoration: black;
+    position:sticky;
+}
+
+#trial{
+  height: 70px;
+  width: 70px;
+  left: auto;
+  background-image: url('webimg/i2.gif');
+}
+
+.container{
+  color: black;
+}
